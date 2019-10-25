@@ -1,7 +1,7 @@
 {
   "name": "Renovasi Otak",
-  "short_name": "Renovasi Otak",
-  "start_url": "https://www.vasiota.com",
+  "short_name": "RenovasiOtak",
+  "start_url": "https://www.vasiota.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#292929",
